@@ -1,0 +1,24 @@
+.elements__title {
+    /* font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    padding: 25px 15px 31px 21px;
+    color: #000000;
+    margin: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 222px; */
+    max-width: 188px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 1.1;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

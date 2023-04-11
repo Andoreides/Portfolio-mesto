@@ -1,0 +1,10 @@
+.popup__zomm {
+    display: none;
+    /* background-image: url(https://pictures.s3.yandex.net/frontend-developer/cards-compressed/arkhyz.jpg); */
+    width: 816px;
+    height: 540px;
+    background-repeat: no-repeat;
+    margin: auto;
+    position: relative;
+    text-align: center;
+}

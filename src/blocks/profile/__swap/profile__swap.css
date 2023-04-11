@@ -1,0 +1,28 @@
+.profile__swap {
+    background-image: url(../../../images/red.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    border: none;
+    border-radius: 100%;
+    position: absolute;
+    opacity: 0;
+    
+    
+}
+
+@media screen and (max-width: 767px) {
+    .profile__swap {
+        margin: 0;
+    }
+}
+
+.profile__swap:hover {
+    
+    opacity: 0.8;
+    background-color: black;
+    background-size: 26px 26px;
+    cursor: pointer;
+}

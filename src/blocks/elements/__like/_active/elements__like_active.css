@@ -1,0 +1,14 @@
+.elements__like_active {
+    /* display: block;
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    bottom: 30px;
+    right: 23px;
+    margin: 0;
+    padding: 0;
+    border: none; */
+    background-image: url(../../../../images/Union.png);
+    /* cursor: pointer;
+     background-color: #FFFFFF; */
+} 

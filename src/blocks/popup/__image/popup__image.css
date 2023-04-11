@@ -1,0 +1,22 @@
+.popup__image {
+    /* width: 816px;
+    height: 540px; */
+    max-width: 75vw;
+    max-height: 75vh;
+}
+
+/* @media screen and (max-width: 940px) {
+    .popup__image {
+        width: 516px;
+        height: 399px;
+    }
+    
+}
+
+@media screen and (max-width: 640px) {
+    .popup__image {
+        width: 240px;
+        height: 299px;
+    }
+    
+} */

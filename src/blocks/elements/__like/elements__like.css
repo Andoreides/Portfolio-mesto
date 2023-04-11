@@ -1,0 +1,33 @@
+.elements__like {
+    display: block;
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    bottom: 35px;
+    right: 23px;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-image: url(../../../images/like.png);
+    background-color: #FFFFFF;
+    cursor: pointer;
+}
+
+.elements__like:hover {
+    opacity: 0.5;
+}
+
+.elements__like.active {
+    /* display: block;
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    bottom: 30px;
+    right: 23px;
+    margin: 0;
+    padding: 0;
+    border: none; */
+    background-image: url(../../../images/Union.png);
+    /* border: 3px solid red; */
+    /* cursor: pointer; */
+}
