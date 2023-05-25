@@ -1,4 +1,4 @@
-import { Card } from "./cardItem";
+import { Card } from "./Card";
 
 function Main({onEditAvatar, onAddplace, onEditProfile, user, placeNew, handleLikeClick, handlePopupZoom, onCardClick, onEditImagePopUp, onDeleteCard }) {
   const handleEditAvatarClick = (event) => {

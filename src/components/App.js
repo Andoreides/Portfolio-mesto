@@ -1,6 +1,6 @@
 import { React, useState, useEffect } from "react";
 import "../index";
-import { Card } from "./cardItem";
+import { Card } from "./Card";
 import Footer from "./Footer";
 import Header from "./Header";
 import Main from "./Main";
@@ -43,6 +43,8 @@ function App() {
   const [placeNew, setPlaceNew] = useState([placeDefault])
   const [placeTitle, setPlaceTitle] = useState('');
   const [placeLink, setPlaceLink] = useState('');
+
+  console.log(placeNew);
 
   useEffect(()=>{
    const initCard = (user) =>{
