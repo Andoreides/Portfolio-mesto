@@ -9,6 +9,4 @@
 ### Использовано
 Проект написан на React с использованием языка JavaScript, разметки HTML и стилизован с помощью CSS
 
-
-https://andoreides.github.io/mesto-react/
 https://andoreides.github.io/mesto-react/
