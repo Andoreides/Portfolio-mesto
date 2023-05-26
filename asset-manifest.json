@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-mesto/static/css/main.e6f4db50.css",
+    "main.js": "/Portfolio-mesto/static/js/main.dde354e4.js",
+    "static/js/787.5a19b790.chunk.js": "/Portfolio-mesto/static/js/787.5a19b790.chunk.js",
+    "static/media/Inter-Medium.woff2?v=3.12": "/Portfolio-mesto/static/media/Inter-Medium.5b53c519b3184a74a98c.woff2",
+    "static/media/Inter-Black.woff2?v=3.12": "/Portfolio-mesto/static/media/Inter-Black.769f5bb9abd2e78ec82b.woff2",
+    "static/media/Inter-Regular.woff2?v=3.12": "/Portfolio-mesto/static/media/Inter-Regular.7c370fde6764d889efe6.woff2",
+    "static/media/fistreview.svg": "/Portfolio-mesto/static/media/fistreview.6129e9de9314a1b289291e0d348b0752.svg",
+    "index.html": "/Portfolio-mesto/index.html",
+    "static/media/pencil.svg": "/Portfolio-mesto/static/media/pencil.6c7bf05444b9793fdf6e.svg",
+    "static/media/krest.svg": "/Portfolio-mesto/static/media/krest.039f1f5203f653b4bacd.svg",
+    "main.e6f4db50.css.map": "/Portfolio-mesto/static/css/main.e6f4db50.css.map",
+    "main.dde354e4.js.map": "/Portfolio-mesto/static/js/main.dde354e4.js.map",
+    "787.5a19b790.chunk.js.map": "/Portfolio-mesto/static/js/787.5a19b790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6f4db50.css",
+    "static/js/main.dde354e4.js"
+  ]
+}
